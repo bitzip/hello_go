@@ -5,5 +5,5 @@ Test go installation
 
 ```bash
 $ go get github.com/kelly-apollo/hello_go
-$ $GOPATH/bin/hello
+$ $GOPATH/bin/hello_go
 ```
